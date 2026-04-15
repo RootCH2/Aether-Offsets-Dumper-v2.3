@@ -16,3 +16,4 @@ The tool will generate:
 - `modules.txt` – list of modules  
 - `offsets.txt` – dumped offsets  
 - `log.txt` – full debug information  
+<img width="1011" height="532" alt="image" src="https://github.com/user-attachments/assets/8b3873b1-1d4b-4487-905a-806008ac8dce" />
